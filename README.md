@@ -1,7 +1,3 @@
-Here's the improved version formatted for a README file:
-
----
-
 # **Pilgrim**
 
 The repository contains the following:
