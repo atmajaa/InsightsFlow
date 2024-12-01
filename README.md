@@ -1,4 +1,4 @@
-# **Pilgrim**
+# **[Pilgrim](https://discoverpilgrim.com/)**
 
 The repository contains the following:
 
